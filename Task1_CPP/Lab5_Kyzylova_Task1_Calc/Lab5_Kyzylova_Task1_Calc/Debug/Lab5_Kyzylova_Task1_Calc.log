@@ -1,0 +1,20 @@
+﻿Сборка начата 31.05.2021 22:14:20.
+     1>Проект "C:\Users\Поля\Documents\Универ\Программирование\Lab5\Task1_CPP\Lab5_Kyzylova_Task1_Calc\Lab5_Kyzylova_Task1_Calc\Lab5_Kyzylova_Task1_Calc.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib UnitMain.cpp
+         UnitMain.cpp
+     1>c:\users\поля\documents\универ\программирование\lab5\task1_cpp\lab5_kyzylova_task1_calc\lab5_kyzylova_task1_calc\UnitMain.h(1983): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\поля\documents\универ\программирование\lab5\task1_cpp\lab5_kyzylova_task1_calc\lab5_kyzylova_task1_calc\unitmain.h(1979): warning C4715: Lab5_Kyzylova_Task1_Calc::UnitMain::factorial: значение возвращается не при всех путях выполнения
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /analyze- /errorReport:prompt "C:\Users\Поля\AppData\Local\Temp\.NETFramework,Version=v4.5.1.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.5.1.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Поля\Documents\Универ\Программирование\Lab5\Task1_CPP\Lab5_Kyzylova_Task1_Calc\Debug\Lab5_Kyzylova_Task1_Calc.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Lab5_Kyzylova_Task1_Calc.UnitAbout.resources /ASSEMBLYRESOURCE:Debug\Lab5_Kyzylova_Task1_Calc.UnitHelp.resources /ASSEMBLYRESOURCE:Debug\Lab5_Kyzylova_Task1_Calc.UnitMain.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Поля\Documents\Универ\Программирование\Lab5\Task1_CPP\Lab5_Kyzylova_Task1_Calc\Debug\Lab5_Kyzylova_Task1_Calc.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\UnitAbout.obj
+         Debug\UnitHelp.obj
+         Debug\UnitMain.obj
+         "Debug\.NETFramework,Version=v4.5.1.AssemblyAttributes.obj"
+         Lab5_Kyzylova_Task1_Calc.vcxproj -> C:\Users\Поля\Documents\Универ\Программирование\Lab5\Task1_CPP\Lab5_Kyzylova_Task1_Calc\Debug\Lab5_Kyzylova_Task1_Calc.exe
+     1>Сборка проекта "C:\Users\Поля\Documents\Универ\Программирование\Lab5\Task1_CPP\Lab5_Kyzylova_Task1_Calc\Lab5_Kyzylova_Task1_Calc\Lab5_Kyzylova_Task1_Calc.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:23.21
